@@ -23,7 +23,7 @@ function Navbar({ cartItems }) {
         <nav className={`${styles.nav} ${scrolled ? styles.scrolled : ''}`}>
             <div className={styles.container}>
                 <div className={styles.logo}>
-                    <Link to="/">ShopEase</Link>
+                    <Link to="/">AlanMart</Link>
                 </div>
 
                 {/* Mobile menu button */}
